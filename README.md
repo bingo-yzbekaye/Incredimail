@@ -211,4 +211,4 @@ IncrediMail is available as a full free version, which includes all features and
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-22 22:05:07 UTC
+**Last updated:** 2026-10-23 01:11:49 UTC
